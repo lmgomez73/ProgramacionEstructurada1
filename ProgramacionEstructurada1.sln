@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HolaMundo", "HolaMundo\Hola
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{D5721058-C3C2-43E3-883B-111954692348}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TP1", "TP1\TP1.vcxproj", "{B352A53A-5D4B-47B9-AEFF-9D6A6489CCA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,16 @@ Global
 		{D5721058-C3C2-43E3-883B-111954692348}.Release|x64.Build.0 = Release|Any CPU
 		{D5721058-C3C2-43E3-883B-111954692348}.Release|x86.ActiveCfg = Release|Any CPU
 		{D5721058-C3C2-43E3-883B-111954692348}.Release|x86.Build.0 = Release|Any CPU
+		{B352A53A-5D4B-47B9-AEFF-9D6A6489CCA8}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{B352A53A-5D4B-47B9-AEFF-9D6A6489CCA8}.Debug|x64.ActiveCfg = Debug|x64
+		{B352A53A-5D4B-47B9-AEFF-9D6A6489CCA8}.Debug|x64.Build.0 = Debug|x64
+		{B352A53A-5D4B-47B9-AEFF-9D6A6489CCA8}.Debug|x86.ActiveCfg = Debug|Win32
+		{B352A53A-5D4B-47B9-AEFF-9D6A6489CCA8}.Debug|x86.Build.0 = Debug|Win32
+		{B352A53A-5D4B-47B9-AEFF-9D6A6489CCA8}.Release|Any CPU.ActiveCfg = Release|Win32
+		{B352A53A-5D4B-47B9-AEFF-9D6A6489CCA8}.Release|x64.ActiveCfg = Release|x64
+		{B352A53A-5D4B-47B9-AEFF-9D6A6489CCA8}.Release|x64.Build.0 = Release|x64
+		{B352A53A-5D4B-47B9-AEFF-9D6A6489CCA8}.Release|x86.ActiveCfg = Release|Win32
+		{B352A53A-5D4B-47B9-AEFF-9D6A6489CCA8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
