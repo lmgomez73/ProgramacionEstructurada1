@@ -2,8 +2,10 @@
 //
 
 #include <iostream>
+#include <stdio.h>
+#include "example.h"
 
-int main()
+int Ejemplo()
 {
 	int hourly_rate, hours_worked, employee_number, wage;
 
@@ -26,7 +28,7 @@ int main()
 
 #pragma region Output
 
-	printf("The employee %d has a wage of %d", employee_number, wage);
+	printf("The employee %d has a wage of %d\n", employee_number, wage);
 
 #pragma endregion
 
