@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HolaMundo", "HolaMundo\Hola
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TP1", "TP1\TP1.vcxproj", "{B352A53A-5D4B-47B9-AEFF-9D6A6489CCA8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TP2", "TP2\TP2.vcxproj", "{689A4AE6-8AEC-406F-849F-065F0717AC2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,16 @@ Global
 		{B352A53A-5D4B-47B9-AEFF-9D6A6489CCA8}.Release|x64.Build.0 = Release|x64
 		{B352A53A-5D4B-47B9-AEFF-9D6A6489CCA8}.Release|x86.ActiveCfg = Release|Win32
 		{B352A53A-5D4B-47B9-AEFF-9D6A6489CCA8}.Release|x86.Build.0 = Release|Win32
+		{689A4AE6-8AEC-406F-849F-065F0717AC2D}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{689A4AE6-8AEC-406F-849F-065F0717AC2D}.Debug|x64.ActiveCfg = Debug|x64
+		{689A4AE6-8AEC-406F-849F-065F0717AC2D}.Debug|x64.Build.0 = Debug|x64
+		{689A4AE6-8AEC-406F-849F-065F0717AC2D}.Debug|x86.ActiveCfg = Debug|Win32
+		{689A4AE6-8AEC-406F-849F-065F0717AC2D}.Debug|x86.Build.0 = Debug|Win32
+		{689A4AE6-8AEC-406F-849F-065F0717AC2D}.Release|Any CPU.ActiveCfg = Release|Win32
+		{689A4AE6-8AEC-406F-849F-065F0717AC2D}.Release|x64.ActiveCfg = Release|x64
+		{689A4AE6-8AEC-406F-849F-065F0717AC2D}.Release|x64.Build.0 = Release|x64
+		{689A4AE6-8AEC-406F-849F-065F0717AC2D}.Release|x86.ActiveCfg = Release|Win32
+		{689A4AE6-8AEC-406F-849F-065F0717AC2D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
